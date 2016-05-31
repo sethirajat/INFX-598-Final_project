@@ -1,0 +1,59 @@
+header{
+    padding-top: 1em;
+    font-size:15px;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+}
+
+.navbar-nav > li {
+    float:none;
+    display:table-cell;
+    text-align:center;
+}
+    
+
+body{
+    font-family: Roboto, 'Helvetica Neue', Arial, sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    padding:0;
+    margin:0;
+}
+
+
+ .sec1{
+    background-image: url(../img/cul1.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #FFF;
+    height: 500px;
+    padding-left: 5em;
+    padding-top: 1em;
+    font-size: 20px;
+ }
+ 
+ .sec21 h1{
+    font-family: fantasy;
+    color: black;
+    padding-left: 5em;
+    padding-top: 1em;
+    font-size:20px; 
+ }
+ 
+ .sec21 p{
+    padding-left: 2.5em;
+    padding-top: 1em;
+    font-size:15px;
+ }
+ 
+ #des{
+     height:100px;
+ }
+ 
+ .carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 100%;
+      margin: auto;
+  }
+  
+  
